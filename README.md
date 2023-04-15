@@ -5,4 +5,6 @@ Usage for generating :
 
 ./generator size_x size_y
 
+Usage for solving :
+
 ./solver file
