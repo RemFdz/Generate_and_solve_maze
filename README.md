@@ -2,6 +2,7 @@
 Generating and solving maze in langage C.
 
 Usage for generating : 
+
 ./generator size_x size_y
 
 ./solver file
