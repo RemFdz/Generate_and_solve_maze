@@ -8,3 +8,5 @@ Usage for generating :
 Usage for solving :
 
 ./solver file
+
+(I apologize for the messy code. It's a result of adhering to the rigorous coding style rules enforced by our Epitech project, which sometimes necessitates overriding certain guidelines.)
